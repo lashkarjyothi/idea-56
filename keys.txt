@@ -1,0 +1,3 @@
+API_KEY_1=abcd1234
+API_KEY_2=xyz9876
+SECRET_KEY=supersecretvalue
