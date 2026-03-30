@@ -27,7 +27,7 @@ cache:
   port: 6379
 
 security:
-  enable_https: true
+  enable_https: false
   allowed_hosts:
     - example.com
     - www.example.com
