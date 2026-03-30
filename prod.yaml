@@ -12,7 +12,7 @@ server:
 database:
   engine: postgresql
   host: db.prod.example.com
-  port: 5432
+  port: 5433
   name: myapp_db
   user: prod_user
   password: secure_password
