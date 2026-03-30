@@ -3,7 +3,7 @@
 app:
   name: my-application
   environment: production
-  debug: false
+  debug: true
 
 server:
   host: 0.0.0.0
