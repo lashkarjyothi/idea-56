@@ -24,7 +24,7 @@ logging:
 cache:
   type: redis
   host: cache.prod.example.com
-  port: 6379
+  port: 6378
 
 security:
   enable_https: false
